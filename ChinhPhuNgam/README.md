@@ -1,0 +1,1 @@
+chinh_phu_ngam_khuc_sino_en.jsonl được tạo thành bằng cách kết hợp bản sino-vi và vi-en, loại bỏ câu "Buổi tiễn đưa lòng bận thê noa" vì bản sino-vi không có câu đó. Dữ liệu được sư tầm trên Internet nên có thể có sai sót, cẩn thận khi sử dụng.

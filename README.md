@@ -1,1 +1,1 @@
-# AncientVietnameseWriting
+# Sưu tầm các văn bản Tiếng Việt (Vietnamese) gồm chữ nôm (Sino), chữ quốc ngữ (national language script), tiếng anh (English).
